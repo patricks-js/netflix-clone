@@ -11,9 +11,9 @@ module.exports = {
         }
       },
       backgroundImage: {
-        "hero-image": "url(./src/assets/hero-image.png)",
+        "hero-image": "url(./public/hero-image.png)",
         "register-login":
-          " linear-gradient(180deg, #151515 39.08%, #030303 100%);"
+          "linear-gradient(180deg, #151515 39.08%, #030303 100%);"
       }
     }
   },
