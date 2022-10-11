@@ -11,7 +11,8 @@ module.exports = {
         }
       },
       backgroundImage: {
-        "hero-image": "url(./public/hero-image.png)",
+        "hero-image":
+          "url(https://raw.githubusercontent.com/patricks-js/netflix-clone/main/src/assets/hero-image.png)",
         "register-login":
           "linear-gradient(180deg, #151515 39.08%, #030303 100%);"
       }
